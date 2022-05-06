@@ -1,1 +1,2 @@
-Olá meu nome é Ronie
+Olá meu nome é Ronie,
+estou dando meus prieiros passos no Git!
